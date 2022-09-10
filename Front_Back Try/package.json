@@ -1,7 +1,7 @@
 {
   "scripts": {
     "ng": "ng",
-    "start": "cd Front_Back Try ; cd angular-sign-up ; ng serve  ",
+    "start": "cd Front_Back",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
